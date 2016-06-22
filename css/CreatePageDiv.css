@@ -1,0 +1,43 @@
+@CHARSET "ISO-8859-1";
+<html>
+<head>
+
+<style type="text/css">
+
+#enterPageName{
+left:800px;
+top:60;
+color:red;   
+position:absolute;
+visibility: hidden;
+}
+#pageAdded{
+left:800;
+top:60;
+color: blue;    
+position:absolute;
+visibility: hidden;
+}
+
+#alreadyPresent{
+left:800;
+top:60;
+color: red;    
+position:absolute; ;
+visibility: hidden;
+}
+#selectTemplate{
+left:800;
+top:60;
+color:red;   
+position:absolute;
+visibility: hidden;
+}
+#img1{
+left:150
+
+top:200     
+	}
+</style>
+</head>
+</html>

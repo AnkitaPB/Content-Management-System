@@ -1,0 +1,36 @@
+@CHARSET "ISO-8859-1";
+<html>
+<head>
+<style type="text/css">
+	.focus { 
+	     border: 2px solid #AA88FF;  
+     background-color: #FFEEAA;  
+} 
+
+.help{
+	 cursor: help; 
+}
+.pointer { 
+	cursor: pointer; 
+}
+.wait { 
+	cursor: wait; 
+}
+.crosshair { 
+	cursor: crosshair; 
+}
+.move { 
+	cursor: move; 
+}
+.smile { cursor:text;
+}
+.default{
+	cursor:default;
+}
+#link a:hover{
+	color:gray;
+	}
+}
+</style>
+</head>
+</html>

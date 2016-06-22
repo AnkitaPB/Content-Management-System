@@ -1,0 +1,43 @@
+#enterConPwd{
+left:800;
+top:60;
+color:red;   
+position:absolute;
+visibility: hidden;
+}
+#diffConPwd{
+left:800;
+top:60;
+color:red;   
+position:absolute;
+visibility: hidden;
+}
+#presentUn{
+left:800;
+top:60;
+color:red;   
+position:absolute;
+visibility: hidden;
+}
+#successful{
+left:800;
+top:60;
+color:blue;   
+position:absolute;
+visibility: hidden;
+}
+
+#enterEmail{
+left:800;
+top:60;
+color:red;   
+position:absolute;
+visibility: hidden;
+}
+#invalidEmail{
+left:800;
+top:60;
+color:red;   
+position:absolute;
+visibility: hidden;
+}

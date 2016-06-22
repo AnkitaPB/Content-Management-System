@@ -1,0 +1,15 @@
+@CHARSET "ISO-8859-1";
+
+<html>
+<head>
+<style type="text/css">
+
+#displayError{
+top:200px;
+color:blue;   
+position:absolute;
+
+}	
+</style>
+</head>
+</html>

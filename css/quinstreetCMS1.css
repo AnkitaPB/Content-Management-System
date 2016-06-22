@@ -1,0 +1,97 @@
+@CHARSET "ISO-8859-1";
+<html>
+<head>
+<style type="text/css">
+
+#left
+{
+  background-color: red;
+  width:400px;
+  float:left;
+  
+}
+
+a{
+  text-decoration: none;
+}
+
+#nav li 
+{
+    display:inline;
+    background-color: black;
+}
+#nav li a 
+{   
+   font-family:Arial;
+   font-size:12px;
+   text-decoration: none;
+   padding:10px;
+   background-color:black;
+   color:white;
+   border-bottom:1px;
+   border-bottom-color:black;
+   border-bottom-style:solid;
+}
+
+#nav li a:hover 
+{
+   background-color:silver;
+   padding-bottom:20px;
+   border-bottom:2px;
+   border-bottom-color:red;
+   border-bottom-style:double;
+   margin:-1px;
+   color: green;
+}
+body{
+   background-color: #bbaab4;
+}
+
+#menuDiv
+	{
+	   background-color: black;
+	   width:1230px;
+	}
+
+	
+
+#topborder {
+	LEFT: 0px; WIDTH: 100%; POSITION: fixed; TOP: 0px; HEIGHT: 1em; 
+	BACKGROUND-COLOR: black;
+}
+
+
+.button {
+            padding: 4px 10px 3px 12px;
+            border: solid 1px #8AB134;
+            position: relative;
+            cursor: pointer;
+            display: inline-block;
+            background-image: url( '/CMS/images/bkg.png' );
+            background-repeat: repeat-x;
+            font-size: 11px;
+            height: 25px;
+            text-decoration: none;
+            FONT-FAMILY: "Trebuchet MS",Verdana,Sans-Serif;
+            color: #40740D;
+            -moz-border-radius-bottomleft: 5px;
+            -moz-border-radius-bottomright: 5px;
+            -moz-border-radius-topleft: 5px;
+            -moz-border-radius-topright: 5px;
+}
+.button:hover
+{
+  color:yellowgreen;
+}
+.click
+{
+COLOR: #d0eb6a; 
+}
+button:hover {
+	 color: yellowgreen ;
+}
+
+
+</style>
+</head>
+</html>

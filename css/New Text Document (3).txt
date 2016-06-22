@@ -1,0 +1,52 @@
+<html><head><title>View Website</title>
+<link href="\CMS\bluediamond\css\cssContents.css" rel="stylesheet" type="text/css" media=screen><script src="null" type="text/javascript"></script>
+</head><body><div align="right">
+<a href="/CMS/pages/index.jsp?websiteName=bluediamond&pageName=home&mode=edit">Login</a></div>
+<div id="editable_header"><div background="/CMS/bluediamond/images/bg.jpg">
+	<center>
+		<div>
+			<img src="/CMS/bluediamond/images/topbanner.bmp" width="500px" /></div>
+		<hr style="width: 900px; color: rgb(0, 204, 204);" />
+		<h2>
+
+			<br />
+			&nbsp;</h2>
+		<center>
+			<h2>
+				<span style="color: rgb(255, 0, 0);"><font style="font-family: 'Monotype Corsiva';">WEL-COME TO E-FACT FINDER BLUE COUNTRY RESORT WEBSITE</font></span></h2>
+		</center>
+		<hr style="width: 900px; color: rgb(0, 204, 204); font: icon;" />
+		<div style="background-color: rgb(175, 200, 250);width: 900px;" >
+
+			<a href="#">Home</a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="AboutResort.html">About Resort </a> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/CMS/bluediamond/AboutPanchgani.jsp">About Panchgani</a>&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <a href="/CMS/bluediamond/ContactUs.jsp">Contact Us</a></div>
+		<hr style="width: 900px; color: rgb(0, 204, 204); font: icon;" />
+	</center>
+
+</div></div><div id="editable_content"><center>
+	<p>
+		<img src="/CMS/bluediamond/images/top1.jpg" style="height: 169px; width: 182px; margin-left: 9px;" /><img src="/CMS/bluediamond/images/top2.jpg" style="height: 169px; width: 185px;" /><img src="/CMS/bluediamond/images/top3.jpg" style="height: 169px; width: 196px;" /><img src="/CMS/bluediamond/images/top4.jpg" style="height: 169px; width: 114px;" /><br />
+		<br />
+		<br />
+		&nbsp;</p>
+</center>
+<h1 style="font-size: x-large; font-family: 'Arial Rounded MT Bold'; text-align: center; color: rgb(51, 51, 255);">
+	BLUE COUNTRY RESORT</h1>
+<p>
+
+	&nbsp;</p>
+<p>
+<div id="bluepadding">
+	Blue Country is a luxury resort spread over 3 acres of land. The resort is 10 minutes away from the main shopping market. The spacious and comfortable 44 rooms command breath-taking views of the valley, and have the option of a/c or non a/c.</p>
+<p>
+	The resort is well organized with a multi cuisine restaurant, which has separate kitchens for vegetarian and non vegetarian cooking, swimming pool, health centre, conference centre and offers indoor and outdoor activities.</p>
+<p>
+	Blue Country is a luxury resort spread over 3 acres of land. The resort is 10 minutes away from the main shopping market. The spacious and comfortable 44 rooms command breath-taking views of the valley, and have the option of a/c or non a/c.</p>
+<p>
+	The resort is well organized with a multi cuisine restaurant, which has separate kitchens for vegetarian and non vegetarian cooking, swimming pool, health centre, conference centre and offers indoor and outdoor activities</p></div></div><div id="editable_footer"><center>
+
+	             	 <hr style="width: 1250px; color: #00cccc" /> 
+        	<img src="/CMS/bluediamond/images/bottom.jpg" />
+      	
+	</center>		
+
+</div></div></body></html>

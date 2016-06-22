@@ -1,0 +1,15 @@
+ thead tr th {
+            background-color: #93008E;
+}
+          
+tr {
+              background-color: #FFADFC;
+  }
+            
+            tr.alt td {
+                background-color: white;
+            }
+            
+            tr.over td, tr:hover td {
+                background-color: #A1009B;
+            }  

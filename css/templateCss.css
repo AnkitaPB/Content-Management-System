@@ -1,0 +1,54 @@
+#editable_content {
+ border:black 1px solid;
+}
+#editable_header{
+ border:black 1px solid;
+}
+.pointer { 
+	cursor: pointer; 
+}
+ 
+#editable_middle
+{
+ border:black 1px solid;
+}
+#editable_footer {
+   border:black 1px solid;
+  clear:left;
+}
+#editable_left
+{
+   border:black 1px solid;
+  width:424px;
+  float:left;
+  
+}
+
+#editable_right
+{
+ border:black 1px solid;
+ float:left;
+ width:434px;
+}
+
+#editable_middle1
+{
+border:black 1px solid;
+  width:300px;
+  float:left;
+  
+}
+
+#editable_middle2
+{
+border:black 1px solid;
+ float:left;
+ width:255px;
+}
+
+#editable_middle3
+{
+border:black 1px solid;
+ float:left;
+ width:300px;
+}

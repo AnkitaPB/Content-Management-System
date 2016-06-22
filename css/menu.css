@@ -1,0 +1,60 @@
+
+
+*{
+padding: 0; 
+        margin: 0;
+}
+
+#pageWrap {
+	width:					500px;
+	background-color:		transparent;
+      
+	
+}
+
+
+#pageBody {
+	width:					1260;
+	background:		black url(/CMS/images/navBG.png) repeat-x 0 0 scroll; 
+
+}
+
+div.hoverBtn {
+	position: 		relative;
+        float:			left;
+	background:		black url(/CMS/images/navBG.png) repeat-x 0 0 scroll;
+
+}
+div.hoverBtn a {
+	position: 		relative;
+	z-index: 		2;
+	display: 		block;
+	width: 			150px;
+	height: 		30px;
+        line-height: 		30px;
+	text-align: 		center;
+	font-size:		1.1em;
+	text-decoration:	none;
+	color:			#000;
+	background:		transparent none repeat-x 0 0 scroll;
+}
+div.hoverBtn div {
+	display:		none;
+	position: 		absolute;
+	z-index: 		1;
+	top: 			0px;
+	background:		white url(/CMS/images/navHover.png) repeat-x 0 0 scroll;
+
+}
+h1 {
+	font-size:		2.0em;
+	margin:			0.5em 0;
+}
+p {
+	padding-top:	10px;
+	margin:			0.5em 0;
+}
+
+.clear	{ clear: both; }
+
+

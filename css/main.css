@@ -1,0 +1,331 @@
+@CHARSET "ISO-8859-1";
+<html>
+<head>
+<style type="text/css">
+#successfulReg{
+	position:absolute;
+	left:700;
+	top:65;
+	color:blue;
+}
+
+.button:hover
+{
+  color:yellowgreen;
+}
+#left
+{
+  background-color: red;
+  width:400px;
+  float:left;
+  
+}
+
+#right
+{
+ background-color: blue;
+ float:left;
+ width:827px;
+}
+
+#header{ 
+   background-color:white;
+  width: 1230px;
+}
+
+#form1
+{	
+		position:absolute; 
+		left:480px;
+		top:150px;
+		BORDER-RIGHT: #2a2a2a 1px solid; 
+ 	        PADDING-RIGHT: 3px; 
+       	        BORDER-TOP: #2a2a2a 1px solid; 
+	        PADDING-LEFT: 4px; 
+               	MARGIN-BOTTOM: 10px; 
+        	PADDING-BOTTOM: 8px; 
+        	BORDER-LEFT: #2a2a2a 1px solid; 
+        	MARGIN-RIGHT: 10px; 
+                PADDING-TOP: 3px; 
+      	        BORDER-BOTTOM: #2a2a2a 6px solid; 
+       	        BACKGROUND-COLOR: #222;
+}
+#websiteForm
+	{
+		position: absolute;
+		left: 400px;
+		top:180px;
+ 		BORDER-RIGHT: #2a2a2a 1px solid; 
+ 	        PADDING-RIGHT: 3px; 
+       	        BORDER-TOP: #2a2a2a 1px solid; 
+	        PADDING-LEFT: 4px; 
+               	MARGIN-BOTTOM: 10px; 
+        	PADDING-BOTTOM: 8px; 
+        	BORDER-LEFT: #2a12:09 AM 09/04/20102a2a 1px solid; 
+        	MARGIN-RIGHT: 10px; 
+                PADDING-TOP: 3px; 
+      	        BORDER-BOTTOM: #2a2a2a 6px solid; 
+       	        BACKGROUND-COLOR: #222;
+                 color:black;
+		 
+	}
+#displayError{
+	left:520;
+	top:110px;
+	color:red;   
+	padding-left:20px
+}
+#displayPageError{
+	top:85px;
+	color:red;   
+	position:absolute;
+}
+
+#displayPageMsg{
+	top:85px;
+	color:blue;   
+	position:absolute;
+}
+#unameErr
+{
+	top:210;
+	left:1070;
+	color:red;
+	position:absolute;
+}
+#pwdErr
+	{
+	top:260;
+	left:1070;
+	color:red;
+	position:absolute;
+}
+#invalidErr
+	{
+	top:120;
+	left:850;
+	color:red;
+	position:absolute;
+}
+
+#successfulReg{
+	position:absolute;
+	left:550;
+	top:65;
+	color:blue;
+}
+#footer {
+  background-color: gray;
+  visibility: visible;
+}
+#imgTemplate1{
+	 top:200;
+	 left:150;
+	 position:absolute;
+}
+#imgTemplate2
+{
+	top:200;
+	left:350;
+    position:absolute;
+}
+#radioTemplate1
+{
+	top:350;
+	left:150;
+	 position:absolute;
+}
+#radioTemplate2
+{
+       top:350;
+       left:350;
+       position:absolute;
+}
+#imgTemplate3
+{
+      top:400;
+      left:150;
+      position: absolute;
+}
+p{
+	position:absolute;
+}
+#temp1{
+	position:absolute;
+	top:200;
+	left:150;
+	
+	}
+#temp2{
+	position:absolute;
+	top:200;
+	left:350;
+	}
+#temp3{
+	 position:absolute;
+	 top:400;
+	left:150;
+	}
+#temp4{
+	position:absolute;
+	top:400;
+	left:350;
+	height:700;
+	}#radio1{
+	position:absolute;
+	top:300;
+	left:300;
+	}
+#radio2{
+	position:absolute;
+	top:350;
+	left:300;
+	}
+#radio3{
+	position:absolute;
+	top:400;
+	left:300
+	}
+#radio4{
+	position:absolute;
+	top:450;
+	left:300;
+	}
+	
+#radio5{
+	position:absolute;
+	top:500;
+	left:300;
+	}
+#createPageButton{
+	position:absolute;
+	top:550;
+	left:150;
+	
+	}
+	
+#addAnotherPageButton{
+	position:absolute;
+	top:550;
+	left:350;
+	
+	}#nav
+{
+    padding:0em;
+}
+#nav li 
+{
+    display:inline;
+    background-color: black;
+}
+#nav li a 
+{   
+   font-family:Arial;
+   font-size:12px;
+   text-decoration: none;
+   padding:10px;
+   background-color:black;
+   color:white;
+   border-bottom:1px;
+   border-bottom-color:black;
+   border-bottom-style:solid;
+}
+
+#nav li a:hover 
+{
+   background-color:silver;
+   padding-bottom:20px;
+   border-bottom:2px;
+   border-bottom-color:red;
+   border-bottom-style:double;
+   margin:-1px;
+   color: green;
+}
+
+#menuDiv
+	{
+	   background-color: black;
+	   width:1230px;
+	}
+#topborder {
+	LEFT: 0px; WIDTH: 100%; POSITION: fixed; TOP: 0px; HEIGHT: 1em; 
+	BACKGROUND-COLOR: black;
+}
+#loginForm
+{
+	position:absolute; 
+	left:850px;
+	top:150px;
+	BORDER-RIGHT: #2a2a2a 6px solid; 
+        PADDING-RIGHT: 3px; 
+        BORDER-TOP: #2a2a2a 2px solid; 
+        PADDING-LEFT: 4px; 
+        FLOAT:left; 
+        MARGIN-BOTTOM: 10px; 
+        PADDING-BOTTOM: 8px; 
+        BORDER-LEFT: #2a2a2a 2px solid; 
+        MARGIN-RIGHT: 10px; 
+        PADDING-TOP: 3px; 
+        BORDER-BOTTOM: #2a2a2a 6px solid; 
+          background-color:#806D7E;
+	      
+        
+}
+
+a img {
+	text-decoration: none;
+	border: 0 none;
+	}
+
+A {
+	CURSOR: hand; COLOR:#E6A9EC; 
+       TEXT-DECORATION: none;
+}
+
+A:hover{
+    color:#E3E4FA;
+}
+
+.button {
+            padding: 4px 10px 3px 12px;
+            border: solid 1px #8AB134;
+            position: relative;
+            cursor: pointer;
+            display: inline-block;
+            background-image: url( '/CMS/images/bkg.png' );
+            background-repeat: repeat-x;
+            font-size: 11px;
+            height: 25px;
+            text-decoration: none;
+            FONT-FAMILY: "Trebuchet MS",Verdana,Sans-Serif;
+            color: #40740D;
+            -moz-border-radius-bottomleft: 5px;
+            -moz-border-radius-bottomright: 5px;
+            -moz-border-radius-topleft: 5px;
+            -moz-border-radius-topright: 5px;
+}
+
+.click
+{
+COLOR: #d0eb6a; 
+}
+button:hover {
+	 color: yellowgreen ;
+}
+H1 {
+	FONT-FAMILY: "Trebuchet MS",Verdana,Sans-Serif;
+        color:white; 
+}
+
+H3 {
+	FONT-FAMILY: "Trebuchet MS",Verdana,Sans-Serif;
+}
+H2 {
+	FONT-SIZE: 1.5em; 
+        TEXT-TRANSFORM: uppercase; 
+        COLOR: #d0eb6a;  LETTER-SPACING: 0.4pt;
+}
+
+</style>
+</head>
+</html>

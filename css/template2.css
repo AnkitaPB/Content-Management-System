@@ -1,0 +1,21 @@
+#editable_header{
+
+}
+#editable_left
+{
+
+  width:400px;
+  float:left;
+  
+}
+
+#editable_right
+{
+
+ float:left;
+ width:827px;
+}
+#editable_footer {
+
+  clear:left;
+}
